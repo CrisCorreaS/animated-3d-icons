@@ -1,7 +1,7 @@
 # Iconos 3D Animados
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green) <br>
 
-[![Imagen de los cuatro iconos 3D animados](https://github.com/CrisCorreaS/animated-3d-icons/blob/main/img/visualizaci%C3%B3n/icons-vista.png)](https://criscorreas.github.io/animated-3d-icons/)
+[![Imagen de los cuatro iconos 3D animados](https://github.com/CrisCorreaS/animated-3d-icons/blob/main/img/visualizaci%C3%B3n/iconos-vista.png)](https://criscorreas.github.io/animated-3d-icons/)
 
 Este proyecto de iconos 3D animados, está inspirado en ["3d Icon" de Frontend Projects](https://frontendsprojects.com/3d-icon/) y han sido creado por **[Cristina Correa](https://www.linkedin.com/in/cristina-correa-segade/)**.
 
@@ -10,7 +10,7 @@ Este proyecto de iconos 3D animados, está inspirado en ["3d Icon" de Frontend P
 ### **Demo desplegada en GitHub Pages:** **[Haz click aquí](https://criscorreas.github.io/animated-3d-icons/)**
 
 #### Vista de los cuatro iconos 3D animados:
-![Vista previa de los cuatro iconos 3D animados](https://github.com/CrisCorreaS/animated-3d-icons/blob/main/img/visualizaci%C3%B3n/icons-vista.png)
+![Vista previa de los cuatro iconos 3D animados](https://github.com/CrisCorreaS/animated-3d-icons/blob/main/img/visualizaci%C3%B3n/iconos-vista.png)
 
 
 ## Características
