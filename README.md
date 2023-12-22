@@ -1,5 +1,5 @@
 # Iconos 3D Animados
-![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green) <br>
+![Badge en Desarollo](https://img.shields.io/badge/STATUS-FINALIZADO-violet) <br/>
 
 [![Imagen de los cuatro iconos 3D animados](https://github.com/CrisCorreaS/animated-3d-icons/blob/main/img/visualizaci%C3%B3n/iconos-vista.png)](https://criscorreas.github.io/animated-3d-icons/)
 
