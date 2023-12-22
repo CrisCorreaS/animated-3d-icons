@@ -1,4 +1,4 @@
-# Calculadora con Tres Temas
+# Iconos 3D Animados
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green) <br>
 
 [![Imagen de los cuatro iconos 3D animados](https://github.com/CrisCorreaS/animated-3d-icons/blob/main/img/visualizaci%C3%B3n/icons-vista.png)](https://criscorreas.github.io/animated-3d-icons/)
