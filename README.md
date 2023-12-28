@@ -15,6 +15,8 @@ Este proyecto de iconos 3D animados, está inspirado en ["3d Icon" de Frontend P
 #### Vista de los cuatro iconos 3D animados:
 ![Vista previa de los cuatro iconos 3D animados](https://github.com/CrisCorreaS/animated-3d-icons/blob/main/img/visualizaci%C3%B3n/iconos-vista.png)
 
+#### Vista de las funcionalidades:
+![Vista previa del comportamiento de los iconos](https://github.com/CrisCorreaS/animated-3d-icons/blob/main/video/features.gif)
 
 ## 🌱 Características
 
