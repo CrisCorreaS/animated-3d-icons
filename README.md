@@ -20,9 +20,10 @@ Este proyecto de iconos 3D animados, está inspirado en ["3d Icon" de Frontend P
 
 ## 🌱 Características
 
-- **Iconos Animados**: Cada icono en la colección estará animado para darle un toque dinámico y atractivo.
-- **Estilo 3D**: Se utilizarán técnicas de CSS para lograr un efecto tridimensional en los iconos, proporcionando una apariencia moderna y visualmente agradable.
-- **Personalización Fácil**: El código estará estructurado de manera que sea fácil para los desarrolladores personalizar los iconos según sus necesidades, ya sea cambiando colores, tamaños o velocidades de animación.
+- **Iconos Animados**: Colección con animaciones que añaden dinamismo y atractivo visual.
+- **Estilo 3D**: Utilización de técnicas CSS para lograr efectos tridimensionales, creando una apariencia moderna y agradable.
+- **Personalización Fácil**: Código estructurado para facilitar la personalización, permitiendo a los desarrolladores ajustar colores, tamaños y velocidades de animación.
+- **Animaciones diferentes:** Cada línea de iconos presenta animaciones únicas para una experiencia diversa.
 
 ## 🛠️ Tecnologías Utilizadas
 
