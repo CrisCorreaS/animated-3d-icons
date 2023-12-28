@@ -45,8 +45,9 @@ Este proyecto tiene como objetivo crear iconos animados en 3D utilizando tecnolo
 ## 👌 Recursos Utilizados
 A la hora de hacer este proyecto he utilizado los siguientes recursos:
 - ["3d Icon" by Frontend Projects](https://frontendsprojects.com/3d-icon/)
-- [Font Awesome Get Started](https://fontawesome.com/docs/web/setup/get-started)
-- [Font Awesome Documentation](https://fontawesome.com/v5/docs/web/reference-icons/)
+- Font Awesome:
+  - [Font Awesome Get Started](https://fontawesome.com/docs/web/setup/get-started)
+  - [Font Awesome Documentation](https://fontawesome.com/v5/docs/web/reference-icons/)
 
 
 ## ➡️ Licencia
