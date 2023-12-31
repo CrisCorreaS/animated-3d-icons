@@ -30,6 +30,19 @@ Este proyecto de iconos 3D animados, está inspirado en ["3d Icon" de Frontend P
 - HTML
 - CSS
 
+## 🔎💡 Información
+> [!IMPORTANT]
+> - Este es un proyecto para principiantes. No se requieren conocimientos avanzados de HTML o CSS.
+> - **Nivel de dificultad del proyecto:** 🔴⭕⭕⭕⭕⭕⭕⭕⭕⭕ (1 sobre 10)
+
+> [!TIP]
+> A la hora de desarrollar el proyecto, te pueden venir bien los siguientes recursos:
+> - ["3d Icon" by Frontend Projects](https://frontendsprojects.com/3d-icon/)
+> - Font Awesome:
+>    - [Font Awesome Get Started](https://fontawesome.com/docs/web/setup/get-started)
+>    - [Font Awesome Documentation](https://fontawesome.com/v5/docs/web/reference-icons/)
+
+
 ## 📓 Cómo Usar
 
 1. Descarga o clona este repositorio en tu máquina local.
@@ -44,14 +57,6 @@ Este proyecto de iconos 3D animados, está inspirado en ["3d Icon" de Frontend P
 ## 🎯 Propósito del Proyecto
 
 Este proyecto tiene como objetivo crear iconos animados en 3D utilizando tecnologías web como HTML y CSS. La idea es proporcionar una colección de iconos atractivos y llamativos que puedan ser utilizados en diversos contextos, como sitios web, aplicaciones móviles o presentaciones.
-
-## 👌 Recursos Utilizados
-A la hora de hacer este proyecto he utilizado los siguientes recursos:
-- ["3d Icon" by Frontend Projects](https://frontendsprojects.com/3d-icon/)
-- Font Awesome:
-  - [Font Awesome Get Started](https://fontawesome.com/docs/web/setup/get-started)
-  - [Font Awesome Documentation](https://fontawesome.com/v5/docs/web/reference-icons/)
-
 
 ## ➡️ Licencia
 Este proyecto está licenciado bajo [MIT License](https://opensource.org/license/mit/).
